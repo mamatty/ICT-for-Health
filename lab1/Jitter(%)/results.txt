@@ -1,0 +1,37 @@
+Squared Error for Train for MSE: 1.76785257
+Squared Error for Test for MSE: 2.54035558
+GRADIENT: Number of iterations 1489 stopped with a weight difference equal to 0.00010001189346834353
+STEEPEST DESCENT: Number of iterations 446 stopped with a weight difference equal to 1.0571052029502816e-05
+Ridge Lagrangian: 1.7678525665181182
+
+K-fold:
+Iteration 1:
+Error Train for MSE: 1.81356614
+Error Test for MSE: 1.54960965
+GRADIENT: Number of iterations 1668 stopped with a weight difference equal to 0.00010001616540617828
+STEEPEST DESCENT: Number of iterations 526 stopped with a weight difference equal to 1.1562663572837592e-05
+Ridge Lagrangian: 1.8135661400123764
+Iteration 2:
+Error Train for MSE: 1.91797518
+Error Test for MSE: 1.66159546
+GRADIENT: Number of iterations 1545 stopped with a weight difference equal to 0.0001000060687764217
+STEEPEST DESCENT: Number of iterations 365 stopped with a weight difference equal to 1.1101717784218357e-05
+Ridge Lagrangian: 1.9179751806497827
+Iteration 3:
+Error Train for MSE: 1.78656212
+Error Test for MSE: 1.75914405
+GRADIENT: Number of iterations 1207 stopped with a weight difference equal to 0.00010008790052005324
+STEEPEST DESCENT: Number of iterations 430 stopped with a weight difference equal to 3.4802777957184766e-05
+Ridge Lagrangian: 1.7865621236846205
+Iteration 4:
+Error Train for MSE: 2.18671271
+Error Test for MSE: 0.96249026
+GRADIENT: Number of iterations 1584 stopped with a weight difference equal to 0.00010000229654573112
+STEEPEST DESCENT: Number of iterations 374 stopped with a weight difference equal to 1.5022657050728644e-05
+Ridge Lagrangian: 2.186712706932377
+Iteration 5:
+Error Train for MSE: 2.01197777
+Error Test for MSE: 1.10984166
+GRADIENT: Number of iterations 1430 stopped with a weight difference equal to 0.00010016423598571079
+STEEPEST DESCENT: Number of iterations 508 stopped with a weight difference equal to 1.4466600510746791e-05
+Ridge Lagrangian: 2.011977771107883
