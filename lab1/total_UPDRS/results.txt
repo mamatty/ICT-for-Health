@@ -1,0 +1,33 @@
+
+
+K-fold:
+Iteration 1:
+Error Train for MSE: 8.67118505
+Error Test for MSE: 4.23459702
+GRADIENT: Number of iterations 4035 stopped with a weight difference equal to 0.00010000756053726268
+STEEPEST DESCENT: Number of iterations 408 stopped with a weight difference equal to 1.4489655120582699e-05
+Ridge Lagrangian: 8.671185049627503
+Iteration 2:
+Error Train for MSE: 9.06089961
+Error Test for MSE: 5.22358480
+GRADIENT: Number of iterations 2847 stopped with a weight difference equal to 0.00010001336281414833
+STEEPEST DESCENT: Number of iterations 432 stopped with a weight difference equal to 1.1025255267537982e-05
+Ridge Lagrangian: 9.06089960865742
+Iteration 3:
+Error Train for MSE: 7.92460115
+Error Test for MSE: 5.06506286
+GRADIENT: Number of iterations 3015 stopped with a weight difference equal to 0.00010000163102215008
+STEEPEST DESCENT: Number of iterations 562 stopped with a weight difference equal to 1.2460867097503966e-05
+Ridge Lagrangian: 7.924601150126839
+Iteration 4:
+Error Train for MSE: 8.03196262
+Error Test for MSE: 5.02222963
+GRADIENT: Number of iterations 1318 stopped with a weight difference equal to 0.00010026243881766699
+STEEPEST DESCENT: Number of iterations 513 stopped with a weight difference equal to 3.492790678380191e-05
+Ridge Lagrangian: 8.031962622320844
+Iteration 5:
+Error Train for MSE: 8.82767612
+Error Test for MSE: 6.51036095
+GRADIENT: Number of iterations 3216 stopped with a weight difference equal to 0.00010000706161977583
+STEEPEST DESCENT: Number of iterations 549 stopped with a weight difference equal to 1.166247976011202e-05
+Ridge Lagrangian: 8.827676116982685
