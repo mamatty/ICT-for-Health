@@ -1,0 +1,12 @@
+Neural Networks:
+
+Train data:
+True positive probability:  0.8571428571428571
+True negative probability:  0.9886363636363636
+False positive probability:  0.011363636363636364
+False negative probability:  0.14285714285714285
+Test data:
+True positive probability:  0.5416666666666666
+True negative probability:  0.7452229299363057
+False positive probability:  0.25477707006369427
+False negative probability:  0.4583333333333333
