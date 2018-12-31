@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Users\\matte\\Documents\\ICT for health\\Labs\\lab2\\Chronic_Kidney_Disease\\chronic_kidney_disease.arff",
+  "fill_na": -1,
+  "feat_names": ["age", "bp", "sg", "al", "su", "rbc", "pc", "pcc", "ba", "bgr", "bu", "sc", "sod", "pot",
+                          "hemo", "pcv", "wbcc", "rbcc", "htn", "dm", "cad", "appet", "pe", "ane", "class"],
+  "stripped": ["rbc", "pc", "pcc", "ba", "htn", "dm", "cad", "appet", "pe", "ane", "class"],
+  "substitutions":
+  [
+    {
+      "str": "yes",
+      "value":1
+    },
+    {
+      "str": "no",
+      "value":0
+    },
+    {
+      "str": "ckd",
+      "value":1
+    },
+    {
+      "str": "notckd",
+      "value":0
+    },
+    {
+      "str": "normal",
+      "value":0
+    },
+    {
+      "str": "abnormal",
+      "value":0
+    },
+    {
+      "str": "good",
+      "value":1
+    },
+    {
+      "str": "poor",
+      "value":0
+    },
+    {
+      "str": "present",
+      "value":1
+    },
+    {
+      "str": "notpresent",
+      "value":0
+    }
+  ]
+}
